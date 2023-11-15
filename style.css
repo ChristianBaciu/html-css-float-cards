@@ -1,0 +1,53 @@
+*{
+    margin: auto;
+    font-family: 'Fredoka', sans-serif;
+    
+}
+
+header{
+    text-align: center;
+    padding-top: 30px;
+    color: red;
+
+}
+
+main{
+    width: 1000px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+figure{
+    width: 1000px;
+
+}
+
+.tabella{
+    margin-top: 20px;
+    background-color: #0f0e17;
+    height: 100px;
+    width: 300px;
+    box-shadow: 0px 0px 5px 0px;
+
+}
+
+.fila{
+    float: left;
+    padding-left: 25px;
+    margin-top: 10px;
+
+}
+
+#logo{
+    vertical-align: middle;
+
+}
+
+#logo-text{
+    color: white;
+    font-weight: bold;
+    vertical-align: middle;
+    padding-left: 10px;
+
+}
